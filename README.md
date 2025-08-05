@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Manish Gahlot
 
-<!--
-**manish-gahlot/manish-gahlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in ECE @ VIT | 💻 Data Analyst & ML Enthusiast  
+📊 Power BI • Python • SQL • Machine Learning • Deep Learning • Natural Language Processing 
+📈 Currently working on: NLP project
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+Python • SQL • Power BI • Pandas • Seaborn • TensorFlow • Scikit-learn • nltk • Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **Stock Price Prediction (LSTM)** - Forecasted NIFTY 50 using deep learning [🔗](link)
+- **SQL 8 Week Challenge** - Advanced SQL case studies [🔗](link)
+- **Power BI Dashboard** - Bank Loan/Deposit Analysis [🔗](link)
+- **Customer Churn Analysis** - Telecom churn EDA & insights [🔗](link)
+
+📫 Contact: gahlotmanish01@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/manish-gahlot-b532b5370)
